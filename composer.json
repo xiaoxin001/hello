@@ -1,0 +1,16 @@
+{
+	"name": "ejiayou/hello",
+	"description": "echo hello world",
+	"license": "MIT License",
+	"authors": [{
+		"name": "oyxx",
+		"email": "ouyangxx@ejiayou.com"
+	}],
+	"minimum-stability": "dev",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"hello\\": "src/"
+		}
+	}
+}
